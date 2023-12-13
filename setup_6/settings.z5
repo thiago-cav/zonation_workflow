@@ -1,0 +1,3 @@
+feature list file = feature_list.txt
+interaction connectivity link file = connectivity_list.txt
+weight groups file = weight_groups.txt

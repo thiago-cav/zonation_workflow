@@ -1,0 +1,24 @@
+Arguments given: -dwW --mode=CAZMAX --gui settings.z5 output
+Settings filename: settings.z5
+Feature list filename: C:\Users\thiagoca\OneDrive - University of Helsinki\Zonation\zonation_workflow\setup_5\feature_list.txt
+Map dimensions (width * height): 698*646
+Number of grid cells in map (width * height): 450908
+Number of grid cells in map with data: 169530
+Feature layer count: 18
+Positive weight feature count: 18
+Negative weight feature count: 0
+Zero weight feature count: 0
+Total number of pixels with data across features: 3051540
+Mean feature extent across study area (original): 100.00%
+Mean feature extent across study area (quantized): 100.00%
+Memory usage of feature data: 4.64MB
+Mean quantization error: 0.100373%
+Number of single-feature connectivity transforms: 9
+Time used to read and preprocess layer data: 1s
+Time used in prioritization: 7s
+Number of iterations: 198
+Final convergence level: 0.00995362%
+Area under curve: 0.559241
+Total time used: 8s
+Number of errors: 0
+Number of warnings: 0

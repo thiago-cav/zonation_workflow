@@ -1,0 +1,10 @@
+"weight"	"filename"
+2.0	../data/sp1.tif
+1.0	../data/sp2.tif
+1.0	../data/sp3.tif
+1.0	../data/sp4.tif
+1.0	../data/sp5.tif
+4.0	../data/sp6.tif
+1.0	../data/sp7.tif
+1.0	../data/sp8.tif
+4.0	../data/sp9.tif

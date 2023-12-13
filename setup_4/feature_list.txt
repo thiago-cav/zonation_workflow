@@ -1,0 +1,10 @@
+"weight"	"filename"
+2.0	../data/sp1_futureM.tif
+1.0	../data/sp2_futureM.tif
+1.0	../data/sp3_futureM.tif
+1.0	../data/sp4_futureM.tif
+1.0	../data/sp5_futureM.tif
+4.0	../data/sp6_futureM.tif
+1.0	../data/sp7_futureM.tif
+1.0	../data/sp8_futureM.tif
+4.0	../data/sp9_futureM.tif
