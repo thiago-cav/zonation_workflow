@@ -25,4 +25,4 @@ To reproduce the analyses, follow these steps:
 
 3. **Execute Batch Files**: Inside the setup folders, find and execute the provided batch files (.cmd) to initiate the analyses.
 
-That's it! 😁😁🎉🎉 By following these steps, you can effortlessly reproduce the analyses and explore the various Zonation configurations presented in the repository. If you encounter any questions or need assistance, feel free to reach out. Enjoy your Zonation and R exploration! 🚀
+That's it! 😁😁🎉🎉 By following these steps, you can effortlessly reproduce the analyses and explore the various Zonation configurations presented in the repository. Please do not hesitate to reach out with any questions, suggestions, and/or feedback regarding this tutorial or related matters. Enjoy your Zonation and R exploration! 🚀
